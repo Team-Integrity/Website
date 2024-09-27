@@ -19,7 +19,7 @@ To begin working with the team-integrity project, follow these steps:
 1. Clone the repository to your local machine:
 
    `
-   git clone https://github.com/Carson-We/website.git
+   git clone https://github.com/Team-Integrity/website.git
    `
 
 2. Install any necessary dependencies as outlined in the project's documentation.
